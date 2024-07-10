@@ -1,6 +1,6 @@
 {
-    "versionCode": 1,
-    "version": "v1.0.0",
-    "zipUrl": "https://github.com/lucky-cry/magisk_modle/releases/download/v1.0.0/crond_start_alipay.zip",
+    "versionCode": 2,
+    "version": "v1.0.1",
+    "zipUrl": "https://github.com/lucky-cry/magisk_modle/releases/download/v1.0.1/crond_start_alipay.zip",
     "changelog": "https://raw.githubusercontent.com/lucky-cry/magisk_modle/crond_start_alipay/changelog.md"
 }
